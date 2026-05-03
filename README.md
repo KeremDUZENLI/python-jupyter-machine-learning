@@ -62,6 +62,7 @@ You can access the non-Colab version of the project directly on GitHub:
    ```sh
    pip install jupyterlab ipykernel
    python -m ipykernel install --user --name=myEnv --display-name "Python (myEnv)"
+   python -m ipykernel install --user --name=machine_learning_env --display-name "Python 3.6 (Machine Learning)"
    ```
 3. Launch Jupyter:
    ```sh
@@ -104,17 +105,14 @@ You can access the non-Colab version of the project directly on GitHub:
 This project is based on the **Machine Learning Basics** course at the **University of Debrecen**
 
 - **Prof. Dr. András Hajdu** – Dean, Head of Department
-
   - _Department of Data Science and Visualization, Faculty of Informatics, University of Debrecen_
   - Email: [hajdu.andras@inf.unideb.hu](mailto:hajdu.andras@inf.unideb.hu)
 
 - **Dr. Balázs Harangi** – Associate Professor, Deputy Head of Department
-
   - _Department of Data Science and Visualization, Faculty of Informatics, University of Debrecen_
   - Email: [harangi.balazs@inf.unideb.hu](mailto:harangi.balazs@inf.unideb.hu)
 
 - **Kerem Düzenli** – PhD Candidate, University of Debrecen
-
   - _Creator and maintainer of this repository_
   - Email: [kerem.duzenli@inf.unideb.hu](mailto:kerem.duzenli@inf.unideb.hu)
 
