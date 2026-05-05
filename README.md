@@ -61,8 +61,7 @@ You can access the non-Colab version of the project directly on GitHub:
 2. Register Python Environment:
    ```sh
    pip install jupyterlab ipykernel
-   python -m ipykernel install --user --name=myEnv --display-name "Python (myEnv)"
-   python -m ipykernel install --user --name=machine_learning_env --display-name "Python 3.6 (Machine Learning)"
+   python -m ipykernel install --user --name=env_machine_learning --display-name "Python 3.6.8 (Machine Learning)"
    ```
 3. Launch Jupyter:
    ```sh
@@ -71,7 +70,7 @@ You can access the non-Colab version of the project directly on GitHub:
 4. Change Kernel:
    ```sh
    Change kernel in Jupyterlab (Select after choosing the .ipynb file) =
-   Kernel → Change Kernel → Python (myEnv)
+   Kernel → Change Kernel → Python 3.6.8 (Machine Learning)
    ```
 
 ## Quick Run (after installation)
