@@ -6,7 +6,7 @@ A collection of machine learning examples. Based on the course **Machine Learnin
 
 You can access the Colab version of the project directly on Link:
 
-[drive.google.com/drive/folders/1J1P-MPw_w8uqze2SuIxIy8AySrrAyc5l?usp=sharing](https://drive.google.com/drive/folders/1J1P-MPw_w8uqze2SuIxIy8AySrrAyc5l?usp=sharing)
+[drive.google.com/drive/folders/1mrkrPAgioQ_ay67yAnKHE4ZVDk3AgNSc](https://drive.google.com/drive/folders/1mrkrPAgioQ_ay67yAnKHE4ZVDk3AgNSc?usp=sharing)
 
 ## Project Directory (Standalone Version)
 
